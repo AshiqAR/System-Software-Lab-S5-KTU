@@ -63,5 +63,5 @@ void main(){
         }
     }
     while(!feof(inter));
-    printf("\nT^00%s\n",str);
+    printf("\nE^00%s\n",str);
 }
